@@ -23,4 +23,4 @@ MIT, veja [LICENSE](LICENSE)
 Caso deseje citar o repositório considere fazer da seguinte forma:
 
 F. L. S. Bustamante, *Análise estatística de uma prática de química com Python*, 2019 -
-Disponível em:
+Disponível em: https://github.com/chicolucio/estatistica-pratica-buretas
